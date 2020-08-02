@@ -4,7 +4,7 @@ from tkinter import Tk, Label, Button, StringVar, Entry, Listbox, Scrollbar, END
 from datetime import date
 import threading
 import streaming_tweepy
-import sentiment_analysis
+import sentiment_wordcloud
 from PIL import ImageTk, Image
 import os
 
