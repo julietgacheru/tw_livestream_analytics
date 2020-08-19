@@ -30,12 +30,13 @@ Create a Twitter account if you do not have one. From https://apps.twitter.com/ 
 
 From the Keys and tokens menu in your created app, copy the following 
 
-Consumer API keys
-	- API key = CONSUMER_KEY 
-	- API secret key = CONSUMER_SECRET
-Access token & access token secret
-	- Access token = ACCESS_TOKEN
-	- Access token secret = ACCESS_TOKEN_SECRET
+##### Consumer API keys
+API key = CONSUMER_KEY 
+API secret key = CONSUMER_SECRET
+
+##### Access token & access token secret
+Access token = ACCESS_TOKEN
+Access token secret = ACCESS_TOKEN_SECRET
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
