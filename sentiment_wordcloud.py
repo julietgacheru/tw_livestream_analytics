@@ -1,4 +1,5 @@
-# description:
+# description: Generate Texblob and a simple graph of sentimental analysis of the collected tweets 
+
 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from textblob import TextBlob

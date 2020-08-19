@@ -1,4 +1,4 @@
-# description:
+# description: collect tweets from the Twitter Streaming API
 
 from tweepy import StreamListener, Stream, OAuthHandler, API
 from tkinter import END
