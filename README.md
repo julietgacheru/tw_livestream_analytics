@@ -2,7 +2,7 @@
 
 ### Description
 
-Twitter Stream Analytics [word cloud and sentiment analysis] GUI is a python GUI app that collects tweets from the Twitter Streaming API using Python based on user-specific hashtag, topic or twitter handle and stores them in CSV format. A Tkinter GUI displays live tweets and also displays a Texblob and a simple graph of sentimental analysis of the collected tweets using Vader. 
+Twitter Stream Analytics [word cloud and sentiment analysis] GUI is a python GUI app that collects tweets from the Twitter Streaming API using Python based on user-specific hashtag, topic or twitter handle and stores them in CSV format. A Tkinter GUI displays live tweets and also displays a wordcloud and a simple graph of sentimental analysis of the collected tweets using Vader. 
 
 ![GUI](https://github.com/julietgacheru/tw_livestream_analytics/blob/master/asset/gui.png "Twitter Stream GUI")
 
